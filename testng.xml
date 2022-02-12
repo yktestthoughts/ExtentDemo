@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.OrangeHrm.ExtentOrangeHrm.LoginTest"/>
+	  <class name="com.OrangeHrm.ExtentOrangeHrm.VerifyTitle"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

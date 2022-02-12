@@ -108,7 +108,7 @@ public class BaseTest {
 				
 			}
 			
-			test.addScreenCaptureFromBase64String(file);
+			test.addScreenCaptureFromPath(file);
 			
 			
 		}
